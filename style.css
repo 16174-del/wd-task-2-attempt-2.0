@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    background: #222222;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+    colour: #ffffff;
+    font-family: Lato, sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+p {
+    colour: #ffffff;
+    font-family: Outfit, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #786383;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 45px;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+
+
+
+
+body
+    h1 
+    p color: rgb(255, 255, 255);.outfit-semibold {font-family:"Outfit", sans-serif;font-weight:600;font-style:normal;outfit
+    <button><border-radius:35px>find out more</button>
+    <button>instagram</button>
+    <button>youtube</button>
